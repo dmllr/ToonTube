@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">0+мульт</string>
+
+    <string name="install_youtube">Для работы приложения необходим установленный YouTube</string>
+    <string name="install_youtube_ok">Установить из Google Play Store</string>
+    <string name="install_youtube_cancel">Выход</string>
+    <string name="error_no_internet">Нет соединения :(</string>
+
+</resources>
